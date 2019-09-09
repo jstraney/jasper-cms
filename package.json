@@ -1,0 +1,29 @@
+{
+  "name": "jasper-cms",
+  "version": "1.0.0",
+  "description": "nodejs based cms",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstraney/node-cms.git"
+  },
+  "keywords": [
+    "cms",
+    "jasper"
+  ],
+  "author": "Jeff Straney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jstraney/node-cms/issues"
+  },
+  "homepage": "https://github.com/jstraney/node-cms#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
